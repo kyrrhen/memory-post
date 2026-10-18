@@ -31,7 +31,7 @@ jobs:
           $hash = (Get-FileHash .\dist\MemoryPost.exe -Algorithm SHA256).Hash.ToLower()
           "$hash  MemoryPost.exe" | Set-Content .\dist\MemoryPost.exe.sha256 -Encoding ascii
       - name: Upload build artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: MemoryPost-windows-x64
           path: |
