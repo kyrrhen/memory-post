@@ -23,6 +23,8 @@ bundle.zip
 记忆包裹.zip
 received/
 examples/received/
+selftest-out/
+selftest_out/
 *.log
 *.tmp
 *.bak
