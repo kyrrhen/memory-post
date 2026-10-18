@@ -46,6 +46,3 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 - Optional inclusion of the executable inside the bundle.
 - Background workers, cancellation, progress, and run logs.
 - Single-file PyInstaller build.
-
-[1.1.0]: https://github.com/YOUR_GITHUB_USERNAME/memory-post/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/YOUR_GITHUB_USERNAME/memory-post/releases/tag/v1.0.0

@@ -36,7 +36,7 @@
 
 ## 下载
 
-从 [GitHub Releases](https://github.com/YOUR_GITHUB_USERNAME/memory-post/releases) 下载最新的 `MemoryPost.exe`。
+从仓库的 [GitHub Releases](../../releases) 页面下载最新的 `MemoryPost.exe`。
 
 > 当前 exe 未做代码签名，Windows SmartScreen 可能提示“未知发布者”。请从本仓库 Releases 下载，并可自行从源码构建。
 
@@ -197,7 +197,7 @@ bundle.zip
 要求：Python 3.10+、Windows 10/11。
 
 ```powershell
-git clone https://github.com/YOUR_GITHUB_USERNAME/memory-post.git
+git clone <repository-url>
 cd memory-post
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1

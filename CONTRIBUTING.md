@@ -5,7 +5,7 @@ Thanks for taking the time to improve Memory Post.
 ## Development setup
 
 ```powershell
-git clone https://github.com/YOUR_GITHUB_USERNAME/memory-post.git
+git clone <repository-url>
 cd memory-post
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1
